@@ -1,0 +1,242 @@
+[{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b94"
+  },
+  "MakeId": 449,
+  "MakeName": "MERCEDES-BENZ",
+  "VehicleTypeName": "Passenger Car",
+  "id": 1,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2023-05-02T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b95"
+  },
+  "MakeId": 449,
+  "MakeName": "MERCEDES-BENZ",
+  "VehicleTypeName": "Truck",
+  "id": 2,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-03-03T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b96"
+  },
+  "MakeId": 449,
+  "MakeName": "MERCEDES-BENZ",
+  "VehicleTypeName": "Bus",
+  "id": 3,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2023-12-18T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b97"
+  },
+  "MakeId": 449,
+  "MakeName": "MERCEDES-BENZ",
+  "VehicleTypeName": "Multipurpose Passenger Vehicle (MPV)",
+  "id": 4,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2023-04-12T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b98"
+  },
+  "MakeId": 449,
+  "MakeName": "MERCEDES-BENZ",
+  "VehicleTypeName": "Incomplete Vehicle",
+  "id": 5,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-07-20T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b99"
+  },
+  "MakeId": 465,
+  "MakeName": "MERCURY",
+  "VehicleTypeName": "Passenger Car",
+  "id": 6,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2023-09-15T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b9a"
+  },
+  "MakeId": 465,
+  "MakeName": "MERCURY",
+  "VehicleTypeName": "Truck",
+  "id": 7,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-08-10T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b9b"
+  },
+  "MakeId": 465,
+  "MakeName": "MERCURY",
+  "VehicleTypeName": "Multipurpose Passenger Vehicle (MPV)",
+  "id": 8,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-02-11T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b9c"
+  },
+  "MakeId": 465,
+  "MakeName": "MERCURY",
+  "VehicleTypeName": "Incomplete Vehicle",
+  "id": 9,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2023-01-21T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b9d"
+  },
+  "MakeId": 928,
+  "MakeName": "FABRICACION Y COMERCIALIZACION PENA",
+  "VehicleTypeName": "Trailer",
+  "id": 10,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-06-06T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b9e"
+  },
+  "MakeId": 945,
+  "MakeName": "CAPSTONE COMMERCE",
+  "VehicleTypeName": "Trailer",
+  "id": 11,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2023-10-05T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1b9f"
+  },
+  "MakeId": 1820,
+  "MakeName": "COMMERCIAL TRAILER",
+  "VehicleTypeName": "Trailer",
+  "id": 12,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-04-14T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1ba0"
+  },
+  "MakeId": 2350,
+  "MakeName": "MERCH MOTORCYCLE CO.",
+  "VehicleTypeName": "Motorcycle",
+  "id": 13,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-01-09T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1ba1"
+  },
+  "MakeId": 2351,
+  "MakeName": "MERCHANT'S TRAILERS AND GRILLS",
+  "VehicleTypeName": "Trailer",
+  "id": 14,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2023-03-19T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1ba2"
+  },
+  "MakeId": 4977,
+  "MakeName": "STRICK COMMERCIAL TRAILER",
+  "VehicleTypeName": "Trailer",
+  "id": 15,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-07-12T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1ba3"
+  },
+  "MakeId": 5804,
+  "MakeName": "COMMERCIAL STRUCTURES",
+  "VehicleTypeName": "Trailer",
+  "id": 16,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-08-25T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1ba4"
+  },
+  "MakeId": 6983,
+  "MakeName": "J & T MERCHANDISE INC",
+  "VehicleTypeName": "Trailer",
+  "id": 17,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2023-11-08T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1ba5"
+  },
+  "MakeId": 7008,
+  "MakeName": "COMMERCIAL MOBILE SYSTEMS INC",
+  "VehicleTypeName": "Trailer",
+  "id": 18,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-09-18T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1ba6"
+  },
+  "MakeId": 9539,
+  "MakeName": "COMMERCIAL VEHICLES CV",
+  "VehicleTypeName": "Trailer",
+  "id": 19,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-06-30T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1ba7"
+  },
+  "MakeId": 9539,
+  "MakeName": "COMMERCIAL VEHICLES CV",
+  "VehicleTypeName": "Trailer",
+  "id": 20,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-05-24T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1ba8"
+  },
+  "MakeId": 13032,
+  "MakeName": "COMMERCIAL",
+  "VehicleTypeName": "Low Speed Vehicle (LSV)",
+  "id": 21,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2023-02-01T00:00:00"
+},
+{
+  "_id": {
+    "$oid": "66ecf6e6ac2f4d4205ba1ba9"
+  },
+  "MakeId": 9539,
+  "MakeName": "COMMERCIAL VEHICLES CV",
+  "VehicleTypeName": "Trailer",
+  "id": 22,
+  "ImageURL": "https://media.ed.edmunds-media.com/mercedes-benz/s-class/2024/oem/2024_mercedes-benz_s-class_sedan_amg-s-63-e-performance_fq_oem_1_1600.jpg",
+  "LastUpdated": "2024-05-24T00:00:00"
+}]
